@@ -1,0 +1,5 @@
+{
+  "name": "AI Wallpaper Generator",
+  "description": "Generate unique phone wallpapers with AI using text prompts and image remixing. Choose your vibe and aspect ratio for personalized backgrounds.",
+  "requestFramePermissions": []
+}
